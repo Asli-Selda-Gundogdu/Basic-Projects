@@ -1,4 +1,4 @@
-#zodiac signs
+#zodiac sign calculator
 month = int(input("Your birth month (1-12): "))
 day = int(input("Your birth day (1-31): "))
 year = int(input("Your birth year (>=0): "))
